@@ -10,12 +10,10 @@
 <br><br>
 
 - :school: I am a `Student` at [Faculty of Computers & Informatics] at [Dian Nuswantoro University].
-- :technologist: Lead GDSC Universitas Dian Nuswantoro 2023-2024.
-- :computer: Vice Lead at Dian Nuswantoro Computer Club 2023-2024.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/10nG-9LGfbQ4wA-ye9wZZzjluZHilrHEX/view).
-- :boom: You can visit [MY WEBSITE](https://martabakcode.github.io/).
+- :technologist: Former Lead GDSC Universitas Dian Nuswantoro 2023-2024.
+- :computer: Former Vice Lead at Dian Nuswantoro Computer Club 2023-2024.
+- :student: I’m currently learning `Cloud Engineer` and `Backend`.
+- :boom: You can visit [MY WEBSITE](https://martabakcode.my.id/).
 <br>
 
 <h2 align="center"><u>My Github Stats</u></h2>
