@@ -13,5 +13,3 @@
 - :student: I’m currently learning `Cloud Engineer` and `Backend`.
 - :boom: You can visit [MY WEBSITE](https://martabakcode.my.id/).
 <br>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=MartabakCode)](https://holopin.io/@MartabakCode)
