@@ -16,12 +16,4 @@
 - :boom: You can visit [MY WEBSITE](https://martabakcode.my.id/).
 <br>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
-</details>
-
-<div align="center">
-  <a href="https://MartabakCode.github.io/MartabakCode/">
-  <img  src="https://github.com/MartabakCode/MartabakCode/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=MartabakCode)](https://holopin.io/@MartabakCode)
